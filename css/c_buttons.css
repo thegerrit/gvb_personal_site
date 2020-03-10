@@ -1,0 +1,12 @@
+.pink-btn{
+  background-color: #FEEBD2;
+  margin-top: 1rem;
+  margin-right: -1rem;
+}
+.pink-btn:hover{
+  background-color: #FF934E;
+}
+.right-align{
+  text-align: right;
+  margin-right: 1rem;
+}

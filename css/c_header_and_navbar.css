@@ -1,0 +1,15 @@
+.custom_navbar{
+  font-style: oblique;
+}
+.custom_header{
+  padding: 1rem 1rem 0rem 0.5rem;
+}
+.navbar-collapse>ul>li{
+  font-weight: 400;
+}
+.bg-light{
+  background-color: #FADBFF !important;
+}
+.text-paragraph{
+  padding-left: 1rem;
+}
